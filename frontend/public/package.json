@@ -1,0 +1,10 @@
+{
+  "name": "copa-occ-frontend-host",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Host estatico del SPA en Azure App Service Linux. Sin dependencias.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
