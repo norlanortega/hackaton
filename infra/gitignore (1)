@@ -1,0 +1,19 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+crash.*.log
+*.tfplan
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
+# Valores reales (pueden contener datos sensibles)
+*.tfvars
+*.tfvars.json
+!*.tfvars.example
+
+# Mantén el lock file en el repo (NO lo ignores):
+# .terraform.lock.hcl

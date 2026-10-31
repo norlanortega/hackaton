@@ -1,0 +1,6 @@
+subscription_id = "00000000-0000-0000-0000-000000000000"
+app_name        = "mi-app-unica"
+environment     = "dev"
+location        = "eastus"
+sku_name        = "B1"
+node_version    = "20-lts"
